@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on my **python** projects to imporve them.
 - 🌱 I’m currently learning **python**, **C#**, **C++** ...
-- 🛰 I’m looking to collaborate on almost anything 
+- 🛰 I’m looking to collaborate on almost anything.
+- 🖥 You can also ask me anything.
 - 📫 How to reach me: 
 
      ✔ Gmail    : bestmahdi2@gmail.com
@@ -17,5 +18,5 @@
      
      ✔ Virgool  : @bestmahdi2
      
-     ✔   ...    : @bestmahdi2 
+     ✔   ...    : @bestmahdi2 😐😂
 
