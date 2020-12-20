@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **python**, **C#**, **C++** ...
 - 🛰 I’m looking to collaborate on almost anything 
 - 📫 How to reach me: 
+
      ✔ Gmail    : bestmahdi2@gmail.com
 
      ✔ Telegram : @bestmahdi2
