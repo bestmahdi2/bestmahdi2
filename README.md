@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi, This is Mahdi, Master, Ali, ... or anything you call me. 👋
 
 <!--
 **bestmahdi2/bestmahdi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my **python** projects to imporve them.
 - 🌱 I’m currently learning **python**, **C#**, **C++** ...
@@ -18,4 +17,4 @@ Here are some ideas to get you started:
      ✔ Virgool  : @bestmahdi2
      
      ✔   ...    : @bestmahdi2 
--->
+
