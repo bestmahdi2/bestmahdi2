@@ -18,16 +18,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-    <a href=mailto:bestmahdi2@gmail.com">
+    <a href=mailto:bestmahdi2@gmail.com>
             <img src="https://img.shields.io/badge/bestmahdi2@gmail.com-white?style=flat&logo=gmail" align="center" alt="Gmail" />
     </a>
-    <a href=https://t.me/Bestmahdi2">
+    <a href=https://t.me/Bestmahdi2>
             <img src="https://img.shields.io/badge/@BestMahdi2-white?style=flat&logo=telegram" align="center" alt="Telegram" />
     </a>
-    <a href=https://www.instagram.com/bestmahdi2">
+    <a href=https://www.instagram.com/bestmahdi2>
             <img src="https://img.shields.io/badge/@BestMahdi2-white?style=flat&logo=instagram" align="center" alt="Instagram" />
     </a>
-    <a href=https://virgool.io/@Bestmahdi2">
+    <a href=https://virgool.io/@Bestmahdi2>
             <img src="https://img.shields.io/badge/Virgool-@BestMahdi2-green?style=flat" align="center" alt="Virgool" />
     </a>
     <img src="https://img.shields.io/badge/...-@BestMahdi2-red?style=flat" align="center" alt="Else" />
