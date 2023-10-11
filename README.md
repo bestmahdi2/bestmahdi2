@@ -13,6 +13,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"></br></br>
 
+<img align='left' src="img/octocat.png" width="40%"/>
+
 <h2>Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,fortran,java,js,html,css,php,py,django,mysql,sqlite,qt,selenium,wordpress&theme=light&perline=8)]()
@@ -24,6 +26,4 @@
 [![My Skills](https://skillicons.dev/icons?i=mastodon&theme=light&perline=8)](https://mastodon.social/@bestmahdi2)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=light&perline=8)](https://twitter.com/bestmahdi2)
 
-</div>
-
-<img align='right' src="img/octocat.png" width="230"/>
+</div> 
