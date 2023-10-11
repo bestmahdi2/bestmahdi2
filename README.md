@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ali%20Badiee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20Programmer%20and%20Technology%20Lover&descAlignY=51&descAlign=62)]()
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Ali%20Badiee&fontSize=120&animation=twinkling&fontAlignY=38&desc=A%20Programmer%20/%20A%20Technology%20Lover&descAlignY=55&descAlign=63)]()
  
 [<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=bestmahdi2&no-frame=true&column=8&theme=darkhub&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,Issues,PullRequest" alt="bestmahdi2" /></a> </p>]()
  
